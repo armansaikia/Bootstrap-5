@@ -1,0 +1,43 @@
+.row1 .row div:first-child{
+    background-color: skyblue;
+    height: 250px;
+}
+
+.row1 .row div:nth-child(2) {
+    background-color: coral;
+    height: 250px;
+}
+
+
+.row1 .row div:nth-child(3) {
+    background-color: khaki;
+    height: 250px;
+}
+
+
+.row1 .row div:last-child{
+    background-color: cornflowerblue;
+    height: 250px;
+}
+
+.row2 .row div:first-child{
+    background-color: navy;
+    height: 250px;
+}
+
+.row2 .row div:nth-child(2) {
+    background-color: olive;
+    height: 250px;
+}
+
+
+.row2 .row div:nth-child(3) {
+    background-color: salmon;
+    height: 250px;
+}
+
+
+.row2 .row div:last-child{
+    background-color: darkcyan;
+    height: 250px;
+}

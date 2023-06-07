@@ -1,0 +1,9 @@
+.row1 .row div:nth-child(2n){
+    background-color: peachpuff;
+    height:220px;
+}
+
+.row2 .row div:nth-child(2n+1){
+    background-color: navy;
+    height:220px;
+}
