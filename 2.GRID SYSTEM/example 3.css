@@ -1,0 +1,25 @@
+.row-one .row div:nth-child(2n){
+
+    background-color: darkcyan;
+    height: 220px;
+}
+
+.row-one .row div:nth-child(2n+1){
+
+    background-color: darkseagreen;
+    height: 220px;
+
+}
+
+.row-two .row div:nth-child(2n){
+
+    background-color: darkcyan;
+    height: 220px;
+}
+
+.row-two .row div:nth-child(2n+1){
+
+    background-color: darkseagreen;
+    height: 220px;
+    
+}
